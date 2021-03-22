@@ -10,7 +10,7 @@
 
 <div align = center> <!--github stat div-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyee-gj&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyee-gj&show_icons=true&theme=gruvbox&bg_color=white)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   
