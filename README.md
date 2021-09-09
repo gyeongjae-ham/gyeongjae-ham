@@ -26,9 +26,5 @@
 
 </div>
 
-  
-[![Solved.ac
-hiyee-gj](http://mazassumnida.wtf/api/pastel/generate_badge?boj={handle})](https://solved.ac/{handle})
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) <!--footer div-->
