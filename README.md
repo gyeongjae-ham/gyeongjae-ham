@@ -27,9 +27,8 @@
 </div>
 
   
-<div>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj={handle})](https://solved.ac/{handle})
-</div>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) <!--footer div-->
