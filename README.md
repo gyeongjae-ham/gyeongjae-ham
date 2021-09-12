@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hiyee%20Github&fontSize=90) <!--header div-->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+Welcome+to+my+github!!;I'm+backend+developer;And+I+want+to+give+good+influence.)](https://git.io/typing-svg)
+
 <h3 align = center>💻 Tech Stack 💻</h3> <!--title div-->
 
 <div align = center> <!--tech stack div-->
