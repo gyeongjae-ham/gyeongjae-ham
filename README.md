@@ -28,6 +28,6 @@
 
 </div>
 
-![](https://github.com/hiyee-gj/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/hiyee-gj/github-stats-transparent/blob/output/generated/overview.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) <!--footer div-->
