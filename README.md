@@ -5,9 +5,9 @@
 I'm usually developing a web server with **python, django**:smile:</br>
 I use **docker** and **AWS**, too.(but, not good at it:disappointed:)</br>Recently, I'm interested:smiley: in **java and spring**, so I'm studying:pencil2:
 
-**I want to be a developer who gives good influence:angel: to the world:earth_asia:**<br>If you have any good ideas or side projects, please contact me.
+**I want to be a developer who gives good influence:angel: to the world:earth_asia:**<br>If you have any good ideas or side projects, please contact me.:rainbow:
 
-🔭 I’m currently working on **Koodon**<br>🌱 I’m currently learning **Java, Spring, AWS, K8s**</br>📫 How to reach me: **gyeongjae.h.dev@gmail.com**
+:office: I’m currently working on **Koodon**<br>:books: I’m currently learning **Java, Spring, AWS, K8s**</br>:postbox: How to reach me: **gyeongjae.h.dev@gmail.com**
 <span> 
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiyee-gj%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
