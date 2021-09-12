@@ -28,5 +28,7 @@
 
 </div>
 
+![](https://github.com/hiyee-gj/github-stats-transparent/blob/master/generated/languages.svg)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) <!--footer div-->
