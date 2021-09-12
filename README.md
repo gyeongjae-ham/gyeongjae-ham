@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hiyee%20Github&fontSize=90) <!--header div-->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hiyee%20Github&fontSize=60) <!--header div-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+Welcome+to+my+github!!;I'm+backend+developer;And+I+want+to+give+good+influence.)](https://git.io/typing-svg)
 
