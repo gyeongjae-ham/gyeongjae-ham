@@ -11,12 +11,13 @@
   
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hiyee-gj&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hiyee-gj&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
-
+<div align=center>
 
 ![](https://github.com/hiyee-gj/github-stats-transparent/blob/output/generated/overview.svg)
 ![](https://github.com/hiyee-gj/github-stats-transparent/blob/output/generated/languages.svg)
+
+</div>
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer) <!--footer div-->
