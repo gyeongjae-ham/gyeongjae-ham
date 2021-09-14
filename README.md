@@ -25,8 +25,8 @@ I use **docker** and **AWS**, too.(but, not good at it:disappointed:)</br>Recent
 
 <div align=center>
   
-<span align=left>![overview](https://github.com/hiyee-gj/github-stats-transparent/blob/output/generated/overview.svg?)</span>
-<span align=right>![languages](https://github.com/hiyee-gj/github-stats-transparent/blob/output/generated/languages.svg?)</span>
+<span>![overview](https://github.com/hiyee-gj/github-stats-transparent/blob/output/generated/overview.svg?)</span>
+<span>![languages](https://github.com/hiyee-gj/github-stats-transparent/blob/output/generated/languages.svg?)</span>
   
 </div>
 
