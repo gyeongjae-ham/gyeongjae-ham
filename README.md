@@ -7,7 +7,7 @@ I use **docker** and **AWS**, too.(but, not good at it:disappointed:)</br>Recent
 
 **I want to be a developer who gives good influence to the world:earth_asia:**<br>If you have any good ideas or side projects, please contact me.:rainbow:
 
-:office: <br>:books: I’m currently learning **Java, Spring, AWS, K8s**</br>:postbox: How to reach me: **gyeongjae.h.dev@gmail.com**
+:office: <br>:books: I’m currently learning **Java, Spring**</br>:postbox: How to reach me: **gyeongjae.h.dev@gmail.com**
 <span> 
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiyee-gj%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
