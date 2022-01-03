@@ -2,12 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Good+day+everyone!!✋;Welcome+to+my+github!!;)](https://git.io/typing-svg)
 
 ### :wave: Hi there! I'm Backend Developer from South Korea!🇰🇷
-I'm usually developing a web server with **python, DRF, node.js, NestJS**:smile:</br>
-I use **docker** and **AWS**, too.(but, not good at it:disappointed:)
+I'm usually developing a web server with **Python, DRF**:smile:</br>
+Actually these days, I'm interested in **Java and Spring**. cuz OOP
+I use **docker** and **AWS**, too.(but, so hard use them:disappointed:)
 
 **I want to be a developer who gives good influence to the world:earth_asia:**<br>If you have any good ideas or side projects, please contact me.:rainbow:
 
-:office:  Rainbow8<br>:books:  I’m currently learning **Node.js and Nest.js**</br>:postbox:  How to reach me: **gyeongjae.h.dev@gmail.com**
+:office:  Rainbow8<br>:books:  I’m currently learning **Node.js, NestJS, Java and Spring**</br>:postbox:  How to reach me: **gyeongjae.h.dev@gmail.com**
 <span> 
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiyee-gj%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
