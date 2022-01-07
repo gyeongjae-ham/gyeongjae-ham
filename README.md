@@ -18,7 +18,7 @@ I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
 <h3 align = left>💻 Tech Stack 💻</h3> <!--title div--> 
 <div align = left> <!--tech stack div-->
   
-![HMTL](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white) ![Django](https://img.shields.io/badge/Django-3776AB?logo=Django&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=Amazon AWS&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white)
+![HMTL](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white) ![Django](https://img.shields.io/badge/Django-3776AB?logo=Django&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=AmazonAWS&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white)
   
 </div>
 
