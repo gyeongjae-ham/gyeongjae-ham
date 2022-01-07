@@ -18,12 +18,12 @@ I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
 <h3 align = left>💻 Tech Stack 💻</h3> <!--title div--> 
 <div align = left> <!--tech stack div-->
   
-![HMTL](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white)</br>![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white)</br> ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=AmazonAWS&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=GitLab&logoColor=white)
-</br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white) ![PostgreSQL
+![HMTL](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white)</br><h5 align = left><strong>Language</strong></h5> ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white)</br><h5 align = left><strong>Infra</strong></h5> ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=AmazonAWS&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=GitLab&logoColor=white)
+</br><h5 align = left><strong>Data Base</strong></h5> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white) ![PostgreSQL
 ](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white) ![MariaDB
 ](https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=white) ![MongoDB
 ](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white) ![SQLite
-](https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white)</br> ![VSCode
+](https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white)</br><h5 align = left><strong>Tool</strong></h5> ![VSCode
 ](https://img.shields.io/badge/VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=white) ![IntelliJ
 ](https://img.shields.io/badge/IntelliJIDEA-000000?logo=IntelliJIDEA&logoColor=white)
 
