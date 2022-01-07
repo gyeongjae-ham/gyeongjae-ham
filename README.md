@@ -25,7 +25,8 @@ I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
 ](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white) ![SQLite
 ](https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white)</br><h5 align = left><strong>Tool</strong></h5> ![VSCode
 ](https://img.shields.io/badge/VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=white) ![IntelliJ
-](https://img.shields.io/badge/IntelliJIDEA-000000?logo=IntelliJIDEA&logoColor=white)
+](https://img.shields.io/badge/IntelliJIDEA-000000?logo=IntelliJIDEA&logoColor=white)</br>
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white)
 
 <h3 align = left>📖 Studying 📖</h3> <!--title div--> 
 <div align = left> <!--studying div-->
