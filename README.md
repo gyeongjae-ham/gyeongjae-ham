@@ -22,7 +22,8 @@ I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
 ](https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white)</br> ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=AmazonAWS&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=GitLab&logoColor=white)
 </br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white) ![PostgreSQL
 ](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white) ![MariaDB
-](https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=white) ![SQLite
+](https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=white) ![MongoDB
+](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white) ![SQLite
 ](https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white)</br> ![VSCode
 ](https://img.shields.io/badge/VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=white) ![IntelliJ
 ](https://img.shields.io/badge/IntelliJIDEA-000000?logo=IntelliJIDEA&logoColor=white)
