@@ -35,7 +35,7 @@ I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
 <h3 align = left>📖 Studying 📖</h3> <!--title div-->
 <div align = left> <!--studying div-->
   
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white)</br></br> ![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white)</br></br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white)</br></br> ![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white) </br></br>
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
 </div>
 
