@@ -39,7 +39,7 @@ I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hiyee-gj&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hiyee-gj&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align=center>
   
