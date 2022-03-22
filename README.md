@@ -47,10 +47,5 @@ I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
 <span>![languages](https://github.com/hiyee-gj/github-stats-transparent/blob/output/generated/languages.svg?)</span>
   
 </div>
-
-<div align=center>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyee-gj)](https://solved.ac/hiyee-gj)
-</div>
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer) <!--footer div-->
