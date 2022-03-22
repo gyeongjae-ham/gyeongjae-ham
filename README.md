@@ -13,7 +13,8 @@ I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiyee-gj%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
   
-</span>
+</span><span>[![trophy](https://github-profile-trophy.vercel.app/?username=hiyee-gj&theme=onedark&title=Joined2020,Commit,Repo,Followers,PR,Issue&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hgj0619)](https://solved.ac/hgj0619)</span>
+
 
 <h3 align = left> 💻 Tech stack  💻</h3> <!--title div--> 
 <div align = left> <!--tech div-->
@@ -47,5 +48,6 @@ I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
 <span>![languages](https://github.com/hiyee-gj/github-stats-transparent/blob/output/generated/languages.svg?)</span>
   
 </div>
-  
+
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer) <!--footer div-->
