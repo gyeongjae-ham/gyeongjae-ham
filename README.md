@@ -18,19 +18,33 @@ I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
 
 <h3 align = left> 💻 Tech stack  💻</h3> <!--title div--> 
 <div align = left> <!--tech div-->
-<h4 align = left><strong>Language & Famework</strong></h4>
-
-![HMTL](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white)
+<h4 align = left><strong>Language & Famework</strong></h4> 
+  
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  
 <h4 align = left><strong>Infra</strong></h4>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=AmazonAWS&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=GitLab&logoColor=white)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
+  
 <h4 align = left><strong>DataBase</strong></h4>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white)
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  
 <h4 align = left><strong>Tool</strong></h4>
 
-![VSCode](https://img.shields.io/badge/VisualStudioCode-007ACC?logo=VisualStudioCode&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000?logo=IntelliJIDEA&logoColor=white)</div>
-
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+<img src="https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">
+<img src="https://img.shields.io/badge/clion-000000?style=for-the-badge&logo=clion&logoColor=white">
 
 </div></br>
 <h3 align = left>📖 Studying 📖</h3> <!--title div-->
