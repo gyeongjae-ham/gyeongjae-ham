@@ -46,7 +46,7 @@ I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
 <img src="https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">
 <img src="https://img.shields.io/badge/clion-000000?style=for-the-badge&logo=clion&logoColor=white">
 
-</div></br>
+</div>
 <h3 align = left>📖 Studying 📖</h3> <!--title div-->
 <div align = left> <!--studying div-->
 
