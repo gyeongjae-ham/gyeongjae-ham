@@ -62,7 +62,7 @@ I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
 
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hiyee-gj&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hiyee-gj&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <div align=center>
   
@@ -70,6 +70,5 @@ I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
 <span>![languages](https://github.com/hiyee-gj/github-stats-transparent/blob/output/generated/languages.svg?)</span>
   
 </div>
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer) <!--footer div-->
