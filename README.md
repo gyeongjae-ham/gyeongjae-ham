@@ -62,7 +62,7 @@ I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
 
 </div>
 
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hiyee-gj&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hiyee-gj&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align=center>
   
