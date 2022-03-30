@@ -15,6 +15,12 @@ I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
   
 </span><span>[![trophy](https://github-profile-trophy.vercel.app/?username=hiyee-gj&theme=onedark&title=Joined2020,Commit,Repo,Followers,PR,Issue&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hgj0619)](https://solved.ac/hgj0619)</span>
 
+<div align=left>
+  
+<span>![overview](https://github.com/hiyee-gj/github-stats-transparent/blob/output/generated/overview.svg?)</span>
+<span>![languages](https://github.com/hiyee-gj/github-stats-transparent/blob/output/generated/languages.svg?)</span>
+  
+</div>
 
 <h3 align = left> 💻 Tech stack  💻</h3> <!--title div--> 
 <div align = left> <!--tech div-->
@@ -63,12 +69,5 @@ I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hiyee-gj&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align=center>
-  
-<span>![overview](https://github.com/hiyee-gj/github-stats-transparent/blob/output/generated/overview.svg?)</span>
-<span>![languages](https://github.com/hiyee-gj/github-stats-transparent/blob/output/generated/languages.svg?)</span>
-  
-</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer) <!--footer div-->
