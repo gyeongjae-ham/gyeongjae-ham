@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hiyee!!&fontSize=50) <!--header div-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Good+day+everyone!!✋;Welcome+to+my+github!!;)](https://git.io/typing-svg)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiyee-gj%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+
 ### :wave: Hi there! I'm Backend Developer from South Korea!🇰🇷
 I'm usually developing a web server with **Javascript, NestJS**:smile:</br>
 Actually I'm interested in **Java and Spring** these days. cuz OOP</br>
@@ -10,10 +12,11 @@ I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
 
 :office:  Rainbow8<br>:books:  I’m currently learning **Node.js, NestJS and Java**</br>:postbox:  How to reach me: **gyeongjae.h.dev@gmail.com**
 <span> 
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiyee-gj%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-  
-</span><span>[![trophy](https://github-profile-trophy.vercel.app/?username=hiyee-gj&theme=onedark&title=Joined2020,Commit,Repo,Followers,PR,Issue&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hgj0619)](https://solved.ac/hgj0619)</span>
+    
+</span>
+<br>
+
+<span>[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hgj0619)](https://solved.ac/hgj0619)</span>
 
 <div align=left>
   
@@ -21,6 +24,10 @@ I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
 <span>![languages](https://github.com/hiyee-gj/github-stats-transparent/blob/output/generated/languages.svg?)</span>
   
 </div>
+
+<span>[![trophy](https://github-profile-trophy.vercel.app/?username=hiyee-gj&theme=onedark&title=Joined2020,Commit,Repo,Followers,PR,Issue&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br>
 
 <h3 align = left> 💻 Tech stack  💻</h3> <!--title div--> 
 <div align = left> <!--tech div-->
