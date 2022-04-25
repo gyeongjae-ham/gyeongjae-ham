@@ -4,9 +4,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiyee-gj%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 ### :wave: Hi there! I'm Backend Developer from South Korea!🇰🇷
-I'm usually developing a web server with **Javascript, NestJS**:smile:</br>
-Actually I'm interested in **Java and Spring** these days. cuz OOP</br>
-I use **docker** and **AWS**, too.(but, so hard to use them:disappointed:)
+I usually develop a web server with **Javascript, NestJS**:smile:</br>
+Actually I'm interested in **Java and Spring** these days.</br>
+I use **docker** and **AWS**, too.(but, It's hard for me to use them:disappointed:)
 
 **I want to be a developer who gives good influence to the world:earth_asia:**<br>If you have any good ideas or side projects, please contact me.:rainbow:
 
