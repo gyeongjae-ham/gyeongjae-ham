@@ -6,7 +6,7 @@
 ### :wave: Hi there! I'm Backend Developer from South Korea!🇰🇷
 I usually develop a web server with **Javascript, NestJS**:smile:</br>
 Actually I'm interested in **Java and Spring** these days.</br>
-I use **docker** and **AWS**, too.(but, It's hard for me to use them:disappointed:)
+I use **docker** and **AWS**, too.(but, It isn't easy for me to use them well:disappointed:)
 
 **I want to be a developer who gives good influence to the world:earth_asia:**<br>If you have any good ideas or side projects, please contact me.:rainbow:
 
