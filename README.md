@@ -75,6 +75,6 @@ I use **docker** and **AWS**, too.(but, It isn't easy for me to use them well:di
 
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hiyee-gj&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hiyee-gj&theme=noctis-minimus&radius=7&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer) <!--footer div-->
