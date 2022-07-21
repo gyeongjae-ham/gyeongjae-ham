@@ -4,13 +4,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiyee-gj%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 ### :wave: Hi there! I'm Backend Developer from South Korea!🇰🇷
-I usually develop a web server with **Javascript, NestJS**:smile:</br>
-Actually I'm interested in **Java and Spring** these days.</br>
-I use **docker** and **AWS**, too.(but, It isn't easy for me to use them well:disappointed:)
+I usually develop a web server with **Javascript, NestJS**:smile:(**docker** and **AWS**)</br>
+I study **Java and Spring** these days and I want to use kafka, kubernetes too!
 
 **I want to be a developer who gives good influence to the world:earth_asia:**<br>If you have any good ideas or side projects, please contact me.:rainbow:
 
-:office:  Rainbow8<br>:books:  I’m currently learning **Node.js, NestJS and Java**</br>:postbox:  How to reach me: **gyeongjae.h.dev@gmail.com**
+:office:  Rainbow8<br>:books: How to reach me: **gyeongjae.h.dev@gmail.com**
 <span> 
     
 </span>
