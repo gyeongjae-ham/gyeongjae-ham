@@ -13,7 +13,7 @@ I study **Java and Spring** these days.
 </span>
 <br>
 
-<span>[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hgj0619)](https://solved.ac/hgj0619)</span><span><a href="https://opgc.me/#/users/hiyee-gj" target="_blank"><img src="https://api.opgc.me/githubs/users/hiyee-gj/tag/?theme=prism" /></a></span>
+<span><a href="https://opgc.me/#/users/hiyee-gj" target="_blank"><img src="https://api.opgc.me/githubs/users/hiyee-gj/tag/?theme=prism" /></a></span>
 
 <div align=left>
   
