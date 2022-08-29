@@ -2,18 +2,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Good+day+everyone!!✋;Welcome+to+my+github!!;)](https://git.io/typing-svg)
 
 ### :wave: Hi there! I'm Backend Developer from South Korea!🇰🇷
+
 I usually develop a web server with **Javascript, NestJS**:smile:(**docker** and **AWS**)</br>
 I study **Java and Spring** these days.
 
 **I want to be a developer who gives good influence to the world:earth_asia:**<br>If you have any good ideas or side projects, please contact me.:rainbow:
 
-:office:  Rainbow8<br>:books: How to reach me: **gyeongjae.h.dev@gmail.com**
-<span> 
-    
+:office: Rainbow8<br>:books: How to reach me: **gyeongjae.h.dev@gmail.com**
+<span>
+
 </span>
 <br>
 
-<span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyee0619)](https://solved.ac/hiyee0619/)</span><span><a href="https://opgc.me/#/users/hiyee-gj" target="_blank"><img src="https://api.opgc.me/githubs/users/hiyee-gj/tag/?theme=prism" /></a></span>
+<div align=left>
+
+<span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyee0619)](https://solved.ac/hiyee0619/)</span>
+<span><a href="https://opgc.me/#/users/hiyee-gj" target="_blank"><img src="https://api.opgc.me/githubs/users/hiyee-gj/tag/?theme=prism" /></a></span>
+
+</div>
 
 <div align=left>
   
@@ -51,13 +57,13 @@ I study **Java and Spring** these days.
 ![Amazon EC2](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EC2&color=222222&logo=Amazon+EC2&logoColor=FF9900&label=)
 ![Amazon RDS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+RDS&color=527FFF&logo=Amazon+RDS&logoColor=FFFFFF&label=)
 ![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
-  
+
 <h4 align = left><strong>DataBase</strong></h4>
 
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![MariaDB](https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
-  
+
 <h4 align = left><strong>Tool</strong></h4>
 
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
