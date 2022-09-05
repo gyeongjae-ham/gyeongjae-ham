@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hiyee!!&fontSize=50) <!--header div-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Good+day+everyone!!✋;Welcome+to+my+github!!;)](https://git.io/typing-svg)
 
-### :wave: Hi there! I'm Backend Developer from South Korea!🇰🇷
+### :wave: Backend Developer from South Korea 🇰🇷
 
 I usually develop a web server with **Javascript, NestJS**:smile:(**docker** and **AWS**)</br>
 I study **Java and Spring** these days.
