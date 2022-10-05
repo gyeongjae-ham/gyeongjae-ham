@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hiyee!!&fontSize=50) <!--header div-->
-
 ### :wave: Backend Developer from South Korea 🇰🇷
 
 I usually develop a web server with **Javascript, NestJS**:smile:(**docker** and **AWS**)</br>
@@ -80,5 +78,3 @@ I study **Java and Spring** these days.
 ![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label=)<br><br>
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer) <!--footer div-->
