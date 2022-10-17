@@ -26,7 +26,7 @@ I study **Java and Spring** these days.
   
 </div>
 
-<span>[![trophy](https://github-profile-trophy.vercel.app/?username=hiyee-gj&theme=discord&title=MultiLanguage,Joined2020,Commits,Repositories,Followers,PR&margin-w=13)](https://github.com/ryo-ma/github-profile-trophy)</span>
+<span>[![trophy](https://github-profile-trophy.vercel.app/?username=hiyee-gj&theme=chalk&title=MultiLanguage,Joined2020,Commits,Repositories,Followers,PR&margin-w=13)](https://github.com/ryo-ma/github-profile-trophy)</span>
 
 <h3 align = left> 💻 Tech stack  💻</h3> <!--title div--> 
 <div align = left> <!--tech div-->
