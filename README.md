@@ -15,7 +15,8 @@ I study **Java and Spring** these days.
 
 <span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyee0619)](https://solved.ac/hiyee0619/)</span>
 <span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=hiyee0619&theme=cold)</span><br>
-<span><a href="https://opgc.me/#/users/hiyee-gj" target="_blank"><img src="https://api.opgc.me/githubs/users/hiyee-gj/tag/?theme=prism" /></a></span>
+
+<span>[![GitHub Streak](https://streak-stats.demolab.com?user=hiyee-gj&theme=ayu-light&locale=ko)](https://git.io/streak-stats)</span>
 
 </div>
 
