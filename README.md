@@ -13,8 +13,8 @@ I study **Java and Spring** these days.
 
 <div align=left>
 
-<span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyee0619)](https://solved.ac/hiyee0619/)</span>
-<span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=hiyee0619&theme=cold)</span><br>
+<span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyeeluca)](https://solved.ac/hiyeeluca/)</span>
+<span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=hiyeeluca&theme=cold)</span><br>
 
 <span>[![GitHub Streak](https://streak-stats.demolab.com?user=hiyee-gj&theme=ayu-light&locale=ko)](https://git.io/streak-stats)</span>
 
