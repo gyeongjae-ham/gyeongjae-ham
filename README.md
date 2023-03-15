@@ -13,10 +13,10 @@ I study **Java and Spring** these days.
 
 <div align=left>
 
+<span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luca_dev)](https://solved.ac/luca_dev/)</span>
+<span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=luca_dev&theme=warm)</span><br>
 <span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyeeluca)](https://solved.ac/hiyeeluca/)</span>
 <span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=hiyeeluca&theme=cold)</span><br>
-<span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyeelucap)](https://solved.ac/hiyeelucap/)</span>
-<span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=hiyeelucap&theme=warm)</span><br>
 
 <span>[![GitHub Streak](https://streak-stats.demolab.com?user=hiyee-gj&theme=ayu-light&locale=ko)](https://git.io/streak-stats)</span>
 
