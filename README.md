@@ -5,7 +5,7 @@ I study **Java and Spring** these days.
 
 **I want to be a developer who gives good influence to the world:earth_asia:**<br>If you have any good ideas or side projects, please contact me.:rainbow:
 
-:office: Rainbow8<br>:books: How to reach me: **gyeongjae.h.dev@gmail.com**
+:books: How to reach me: **gyeongjae.h.dev@gmail.com**
 <span>
 
 </span>
