@@ -13,8 +13,8 @@ I study **Java and Spring** these days.
 
 <div align=left>
 
-<span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luca_dev)](https://solved.ac/luca_dev/)</span>
-<span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=luca_dev&theme=warm)</span><br>
+<span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luca_h)](https://solved.ac/luca_h/)</span>
+<span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=luca_h&theme=warm)</span><br>
 <span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyeeluca)](https://solved.ac/hiyeeluca/)</span>
 <span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=hiyeeluca&theme=cold)</span><br>
 
