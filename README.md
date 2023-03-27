@@ -1,10 +1,5 @@
 ### :wave: Backend Developer from South Korea 🇰🇷
 
-I usually develop a web server with **Javascript, NestJS**:smile:(**docker** and **AWS**)</br>
-I study **Java and Spring** these days.
-
-**I want to be a developer who gives good influence to the world:earth_asia:**<br>If you have any good ideas or side projects, please contact me.:rainbow:
-
 :books: How to reach me: **gyeongjae.h.dev@gmail.com**
 <span>
 
