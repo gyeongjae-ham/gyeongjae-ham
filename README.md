@@ -9,9 +9,9 @@
 <div align=left>
 
 <span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luca_h)](https://solved.ac/luca_h/)</span>
-<span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=luca_h&theme=warm)</span><br>
+<span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=luca_h&theme=cold)</span><br>
 <span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyeeluca)](https://solved.ac/hiyeeluca/)</span>
-<span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=hiyeeluca&theme=cold)</span><br>
+<span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=hiyeeluca&theme=warm)</span><br>
 
 <span>[![GitHub Streak](https://streak-stats.demolab.com?user=hiyee-gj&theme=ayu-light&locale=ko)](https://git.io/streak-stats)</span>
 
