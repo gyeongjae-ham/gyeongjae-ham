@@ -1,9 +1,6 @@
-### :wave: Backend Developer from South Korea 🇰🇷
+<h2 align=center>:wave: Backend Developer from South Korea 🇰🇷</h2>
 
-:books: How to reach me: **gyeongjae.h.dev@gmail.com**
-<span>
-
-</span>
+<h3 align=center>:books: How to reach me: <strong>gyeongjae.h.dev@gmail.com</strong></h3>
 <br>
 
 <div align=center>
