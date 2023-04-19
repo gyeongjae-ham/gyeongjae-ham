@@ -13,8 +13,6 @@
 <span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyeeluca)](https://solved.ac/hiyeeluca/)</span>
 <span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=hiyeeluca&theme=warm)</span><br>
 
-<span>[![GitHub Streak](https://streak-stats.demolab.com?user=hiyee-gj&theme=ayu-light&locale=ko)](https://git.io/streak-stats)</span>
-
 </div>
 
 <div align=left>
@@ -23,8 +21,6 @@
 <span>![languages](https://github.com/hiyee-gj/github-stats-transparent/blob/output/generated/languages.svg?)</span>
   
 </div>
-
-<span>[![trophy](https://github-profile-trophy.vercel.app/?username=hiyee-gj&theme=chalk&title=MultiLanguage,Joined2020,Commits,Repositories,Followers,PR&margin-w=13)](https://github.com/ryo-ma/github-profile-trophy)</span>
 
 <h3 align = left> 💻 Tech stack  💻</h3> <!--title div--> 
 <div align = left> <!--tech div-->
