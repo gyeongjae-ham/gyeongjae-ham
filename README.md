@@ -5,8 +5,8 @@
 
 <div align=center>
 
-<span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luca_p)](https://solved.ac/luca_p/)</span>
-<span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=luca_p&theme=cold)</span><br>
+<span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luca_h)](https://solved.ac/luca_h/)</span>
+<span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=luca_h&theme=cold)</span><br>
 <span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyeeluca)](https://solved.ac/hiyeeluca/)</span>
 <span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=hiyeeluca&theme=warm)</span><br>
 
