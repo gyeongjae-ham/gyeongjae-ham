@@ -6,7 +6,7 @@
 <div align=center>
 
 <span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luca_p)](https://solved.ac/luca_p/)</span>
-<span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=hiyeeluca&theme=cold)</span><br>
+<span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=luca_p&theme=cold)</span><br>
 
 </div>
 
