@@ -12,8 +12,8 @@
 
 <div align=center>
   
-<span>![overview](https://github.com/hiyee-gj/github-stats-transparent/blob/output/generated/overview.svg?)</span>
-<span>![languages](https://github.com/hiyee-gj/github-stats-transparent/blob/output/generated/languages.svg?)</span>
+<span>![overview](https://github.com/luca-ham/github-stats-transparent/blob/output/generated/overview.svg?)</span>
+<span>![languages](https://github.com/luca-ham/github-stats-transparent/blob/output/generated/languages.svg?)</span>
   
 </div>
 
