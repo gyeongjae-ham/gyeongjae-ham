@@ -3,20 +3,6 @@
 <h3 align=center>:books: How to reach me: <strong>gyeongjae.h.dev@gmail.com</strong></h3>
 <br>
 
-<div align=center>
-
-<span>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyeeluca)](https://solved.ac/hiyeeluca/)</span>
-<span>![mazandi profile](http://mazandi.herokuapp.com/api?handle=hiyeeluca&theme=cold)</span><br>
-
-</div>
-
-<div align=center>
-  
-<span>![overview](https://github.com/luca-ham/github-stats-transparent/blob/output/generated/overview.svg?)</span>
-<span>![languages](https://github.com/luca-ham/github-stats-transparent/blob/output/generated/languages.svg?)</span>
-  
-</div>
-
 <h3 align = center> 💻 Tech stack  💻</h3> <!--title div--> 
 <div align = center> <!--tech div-->
 <h4 align = center><strong>Language & Famework</strong></h4> 
@@ -50,5 +36,3 @@
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hiyeeluca&color=dark)](https://velog.io/@hiyeeluca)
